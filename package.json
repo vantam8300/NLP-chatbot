@@ -21,6 +21,7 @@
     "@nlpjs/basic": "^4.26.1",
     "@nlpjs/directline-connector": "^4.26.1",
     "@nlpjs/express-api-server": "^4.26.1",
-    "@nlpjs/lang-es": "^4.26.1"
+    "@nlpjs/lang-es": "^4.26.1",
+    "@nlpjs/msbf-connector": "^4.26.1"
   }
 }

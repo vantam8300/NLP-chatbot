@@ -3,6 +3,15 @@
   "locale": "en-US",
   "data": [
     {
+      "intent": "joke.chucknorris",
+      "utterances": [
+        "tell me a chuck norris fact",
+        "tell me a joke about chuck norris",
+        "say a chuck norris joke",
+        "some chuck norris fact"
+      ]
+    },
+    {
       "intent": "agent.whereami",
       "utterances": [
         "where am i",
