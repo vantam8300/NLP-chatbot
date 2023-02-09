@@ -19,7 +19,7 @@
     "bot2": {
       "settings": {
         "api-server": {
-          "port": "process.env.PORT",
+          "port": "\"{{process.env.PORT}}\"",
           "serveBot": true
         }
       },
